@@ -16,4 +16,3 @@ My GitHub page is http://github.com/sbaez-00.
 
 * Lab 11
     Lab 11 part 2 is my favorite lab because it was like a continuation of lab 4 part 2 but with a challenge. Here, again, I wrote a code about guessing a number. The challenge was instigating a random number the program would choose and the player would guess. 
- 
