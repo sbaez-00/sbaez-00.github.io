@@ -4,7 +4,7 @@ This is my home page! My name is Sarah Baez and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/sbaez-00.
 
 ### CPSC 120
 
